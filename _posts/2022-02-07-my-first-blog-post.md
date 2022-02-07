@@ -1,5 +1,5 @@
 
 ---
-title: "BATSY"
-date: 2022-02-07
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
